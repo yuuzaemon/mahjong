@@ -1,4 +1,3 @@
-alert("js");
 
 function clicked(tiles){
     let clicked_tiles = document.getElementById(tiles).innerHTML;
